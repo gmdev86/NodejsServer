@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-server",
+  "version": "0.0.0",
+  "description": "NodejsServer",
+  "main": "server.js",
+  "author": {
+    "name": "davis8"
+  }
+}
